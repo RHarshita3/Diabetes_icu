@@ -1,0 +1,9 @@
+hour,patient_id,age,sex,bmi,admission_type,heart_rate,systolic_bp,temperature,respiratory_rate,creatinine,potassium,wbc,prior_steroids,prior_diuretics,family_history,glucose,hba1c
+0,999001,67,M,32.0,emergency,84,132,37.0,18,1.1,4.0,9.5,0,1,1,128,
+3,999001,67,M,32.0,emergency,86,132,37.0,18,1.1,4.0,9.5,0,1,1,142,
+6,999001,67,M,32.0,emergency,88,132,37.0,18,1.1,4.0,9.5,0,1,1,165,
+9,999001,67,M,32.0,emergency,90,132,37.0,18,1.1,4.0,9.5,0,1,1,190,
+12,999001,67,M,32.0,emergency,92,132,37.0,18,1.1,4.0,9.5,0,1,1,214,7.4
+15,999001,67,M,32.0,emergency,94,132,37.0,18,1.1,4.0,9.5,0,1,1,236,7.4
+18,999001,67,M,32.0,emergency,96,132,37.0,18,1.1,4.0,9.5,0,1,1,252,7.4
+21,999001,67,M,32.0,emergency,98,132,37.0,18,1.1,4.0,9.5,0,1,1,268,7.4
